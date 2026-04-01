@@ -262,7 +262,7 @@
       "date": "20260402",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "490.00",
-      "status": "2"
+      "status": "1"
     },
     "IMCB|9471|20260402|Prime Rows": {
       "venue": "INOX: M5 Ecity, Bengaluru",
@@ -469,7 +469,7 @@
       "time": "03:40 PM",
       "date": "20260402",
       "cat": "GOLD",
-      "price": "480.00",
+      "price": "530.00",
       "status": "3"
     },
     "PVWW|33678|20260402|GOLD PRIME": {
@@ -750,7 +750,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "190.00",
-      "status": "3"
+      "status": "2"
     },
     "PMSR|26100|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
@@ -878,7 +878,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "300.00",
-      "status": "2"
+      "status": "1"
     },
     "PSLC|15038|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -1070,7 +1070,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
     "PGFD|27213|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
@@ -1093,7 +1093,7 @@
       "time": "07:15 PM",
       "date": "20260402",
       "cat": "RECLINER ROWS",
-      "price": "340.00",
+      "price": "370.00",
       "status": "3"
     },
     "PGFD|27191|20260402|PRIME ROWS": {
@@ -1200,100 +1200,52 @@
       "price": "190.00",
       "status": "3"
     },
-    "CPEB|1363|20260402|NORMAL": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "12:00 PM",
+    "GPBR|93807|20260402|SOFA": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "04:20 PM",
       "date": "20260402",
-      "cat": "NORMAL",
-      "price": "180.00",
+      "cat": "SOFA",
+      "price": "350.00",
       "status": "3"
     },
-    "CPEB|1363|20260402|EXECUTIVE": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "12:00 PM",
+    "GPBR|93807|20260402|GOLD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "04:20 PM",
       "date": "20260402",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
+      "cat": "GOLD",
+      "price": "290.00",
       "status": "3"
     },
-    "CPEB|1363|20260402|PREMIUM": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "12:00 PM",
+    "GPBR|93807|20260402|STANDARD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "04:20 PM",
       "date": "20260402",
-      "cat": "PREMIUM",
-      "price": "220.00",
+      "cat": "STANDARD",
+      "price": "270.00",
       "status": "3"
     },
-    "CPEB|1354|20260402|NORMAL": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "02:10 PM",
+    "GPBR|93809|20260402|SOFA": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "10:00 PM",
       "date": "20260402",
-      "cat": "NORMAL",
-      "price": "180.00",
+      "cat": "SOFA",
+      "price": "350.00",
+      "status": "2"
+    },
+    "GPBR|93809|20260402|GOLD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "10:00 PM",
+      "date": "20260402",
+      "cat": "GOLD",
+      "price": "290.00",
       "status": "3"
     },
-    "CPEB|1354|20260402|EXECUTIVE": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "02:10 PM",
+    "GPBR|93809|20260402|STANDARD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "10:00 PM",
       "date": "20260402",
-      "cat": "EXECUTIVE",
-      "price": "200.00",
-      "status": "3"
-    },
-    "CPEB|1354|20260402|PREMIUM": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "02:10 PM",
-      "date": "20260402",
-      "cat": "PREMIUM",
-      "price": "220.00",
-      "status": "3"
-    },
-    "CPEB|1354|20260402|PREMIUM XL": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "02:10 PM",
-      "date": "20260402",
-      "cat": "PREMIUM XL",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CPEB|1354|20260402|PREMIUM PLUS": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "02:10 PM",
-      "date": "20260402",
-      "cat": "PREMIUM PLUS",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CPEB|1354|20260402|RECLINER": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "02:10 PM",
-      "date": "20260402",
-      "cat": "RECLINER",
-      "price": "520.00",
-      "status": "3"
-    },
-    "CPEB|1373|20260402|NORMAL": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "05:45 PM",
-      "date": "20260402",
-      "cat": "NORMAL",
-      "price": "200.00",
-      "status": "3"
-    },
-    "CPEB|1373|20260402|EXECUTIVE": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "05:45 PM",
-      "date": "20260402",
-      "cat": "EXECUTIVE",
-      "price": "220.00",
-      "status": "3"
-    },
-    "CPEB|1373|20260402|PREMIUM": {
-      "venue": "Cinepolis: Binnypet Mall",
-      "time": "05:45 PM",
-      "date": "20260402",
-      "cat": "PREMIUM",
-      "price": "240.00",
+      "cat": "STANDARD",
+      "price": "270.00",
       "status": "3"
     },
     "PMBR|19675|20260402|RECLINER ROWS": {
@@ -1408,52 +1360,100 @@
       "price": "220.00",
       "status": "3"
     },
-    "GPBR|93807|20260402|SOFA": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "04:20 PM",
+    "CPEB|1363|20260402|NORMAL": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "12:00 PM",
       "date": "20260402",
-      "cat": "SOFA",
-      "price": "350.00",
+      "cat": "NORMAL",
+      "price": "180.00",
       "status": "3"
     },
-    "GPBR|93807|20260402|GOLD": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "04:20 PM",
+    "CPEB|1363|20260402|EXECUTIVE": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "12:00 PM",
       "date": "20260402",
-      "cat": "GOLD",
-      "price": "290.00",
+      "cat": "EXECUTIVE",
+      "price": "200.00",
       "status": "3"
     },
-    "GPBR|93807|20260402|STANDARD": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "04:20 PM",
+    "CPEB|1363|20260402|PREMIUM": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "12:00 PM",
       "date": "20260402",
-      "cat": "STANDARD",
-      "price": "270.00",
+      "cat": "PREMIUM",
+      "price": "220.00",
       "status": "3"
     },
-    "GPBR|93809|20260402|SOFA": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "10:00 PM",
+    "CPEB|1354|20260402|NORMAL": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "02:10 PM",
       "date": "20260402",
-      "cat": "SOFA",
-      "price": "350.00",
-      "status": "2"
-    },
-    "GPBR|93809|20260402|GOLD": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "10:00 PM",
-      "date": "20260402",
-      "cat": "GOLD",
-      "price": "290.00",
+      "cat": "NORMAL",
+      "price": "180.00",
       "status": "3"
     },
-    "GPBR|93809|20260402|STANDARD": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "10:00 PM",
+    "CPEB|1354|20260402|EXECUTIVE": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "02:10 PM",
       "date": "20260402",
-      "cat": "STANDARD",
-      "price": "270.00",
+      "cat": "EXECUTIVE",
+      "price": "200.00",
+      "status": "3"
+    },
+    "CPEB|1354|20260402|PREMIUM": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "02:10 PM",
+      "date": "20260402",
+      "cat": "PREMIUM",
+      "price": "220.00",
+      "status": "3"
+    },
+    "CPEB|1354|20260402|PREMIUM XL": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "02:10 PM",
+      "date": "20260402",
+      "cat": "PREMIUM XL",
+      "price": "260.00",
+      "status": "3"
+    },
+    "CPEB|1354|20260402|PREMIUM PLUS": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "02:10 PM",
+      "date": "20260402",
+      "cat": "PREMIUM PLUS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "CPEB|1354|20260402|RECLINER": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "02:10 PM",
+      "date": "20260402",
+      "cat": "RECLINER",
+      "price": "520.00",
+      "status": "3"
+    },
+    "CPEB|1373|20260402|NORMAL": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "05:45 PM",
+      "date": "20260402",
+      "cat": "NORMAL",
+      "price": "200.00",
+      "status": "3"
+    },
+    "CPEB|1373|20260402|EXECUTIVE": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "05:45 PM",
+      "date": "20260402",
+      "cat": "EXECUTIVE",
+      "price": "220.00",
+      "status": "3"
+    },
+    "CPEB|1373|20260402|PREMIUM": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "05:45 PM",
+      "date": "20260402",
+      "cat": "PREMIUM",
+      "price": "240.00",
       "status": "3"
     },
     "PZVK|23240|20260402|RECLINER ROWS": {
@@ -1765,7 +1765,7 @@
       "time": "12:50 PM",
       "date": "20260402",
       "cat": "RECLINER PRIME",
-      "price": "900.00",
+      "price": "1000.00",
       "status": "2"
     },
     "PDWR|23798|20260402|RECLINER": {
@@ -1806,7 +1806,7 @@
       "date": "20260402",
       "cat": "RECLINER",
       "price": "1100.00",
-      "status": "1"
+      "status": "0"
     },
     "PDWR|23801|20260402|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -1847,12 +1847,60 @@
       "cat": "VIP (1 FOR 2 ADMIT)",
       "price": "1000.00",
       "status": "3"
+    },
+    "ACKB|3405|20260403|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "12:55 PM",
+      "date": "20260403",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3405|20260403|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "12:55 PM",
+      "date": "20260403",
+      "cat": "GRAND",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ACKB|3405|20260403|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "12:55 PM",
+      "date": "20260403",
+      "cat": "CLASSIC",
+      "price": "250.00",
+      "status": "3"
+    },
+    "ACKB|3404|20260403|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:15 PM",
+      "date": "20260403",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3404|20260403|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:15 PM",
+      "date": "20260403",
+      "cat": "GRAND",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ACKB|3404|20260403|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:15 PM",
+      "date": "20260403",
+      "cat": "CLASSIC",
+      "price": "250.00",
+      "status": "3"
     }
   },
   "dates": {
     "20260401": "BOOKABLE",
     "20260402": "AVAILABLE",
-    "20260403": "NOT_OPEN",
+    "20260403": "AVAILABLE",
     "20260404": "NOT_OPEN",
     "20260405": "NOT_OPEN",
     "20260406": "NOT_OPEN",
