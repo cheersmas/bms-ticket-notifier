@@ -2565,7 +2565,7 @@
       "time": "10:10 PM",
       "date": "20260403",
       "cat": "RECLINER ROWS",
-      "price": "630.00",
+      "price": "680.00",
       "status": "2"
     },
     "PSLC|15059|20260403|PRIME ROWS": {
@@ -2734,7 +2734,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "330.00",
-      "status": "2"
+      "status": "3"
     },
     "FMFB|117479|20260403|CLASSIC PLUS ROWS": {
       "venue": "INOX: Nexus, Whitefield",
@@ -3246,7 +3246,7 @@
       "date": "20260403",
       "cat": "RECLINER PRIME",
       "price": "1000.00",
-      "status": "3"
+      "status": "2"
     },
     "PDWR|23846|20260403|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -3518,6 +3518,70 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "260.00",
+      "status": "3"
+    },
+    "PPNX|38142|20260404|RECLINER ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "580.00",
+      "status": "3"
+    },
+    "PPNX|38142|20260404|PRIME ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PPNX|38142|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PPNX|38142|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PPNX|38133|20260404|RECLINER ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "07:15 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "580.00",
+      "status": "3"
+    },
+    "PPNX|38133|20260404|PRIME ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "07:15 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PPNX|38133|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "07:15 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PPNX|38133|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
+      "time": "07:15 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "290.00",
       "status": "3"
     },
     "CLGM|2114|20260404|NORMAL": {
