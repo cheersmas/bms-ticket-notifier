@@ -189,7 +189,7 @@
       "time": "12:50 PM",
       "date": "20260402",
       "cat": "LUXE",
-      "price": "450.00",
+      "price": "500.00",
       "status": "3"
     },
     "CEHR|27645|20260402|GOLD": {
@@ -453,7 +453,7 @@
       "time": "01:25 PM",
       "date": "20260402",
       "cat": "RECLINER ROWS",
-      "price": "330.00",
+      "price": "380.00",
       "status": "3"
     },
     "PVWW|33681|20260402|PRIME ROWS": {
@@ -1045,8 +1045,8 @@
       "time": "10:20 PM",
       "date": "20260402",
       "cat": "PRIME ROWS",
-      "price": "250.00",
-      "status": "2"
+      "price": "270.00",
+      "status": "1"
     },
     "FMFB|117454|20260402|CLASSIC PLUS ROWS": {
       "venue": "INOX: Nexus, Whitefield",
@@ -1310,7 +1310,7 @@
       "date": "20260402",
       "cat": "RECLINER ROWS",
       "price": "440.00",
-      "status": "3"
+      "status": "2"
     },
     "INMB|69161|20260402|PRIME ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
@@ -1669,7 +1669,7 @@
       "time": "08:45 PM",
       "date": "20260402",
       "cat": "PRIME ROWS",
-      "price": "310.00",
+      "price": "330.00",
       "status": "2"
     },
     "INBG|115336|20260402|CLASSIC PLUS ROWS": {
@@ -1813,7 +1813,7 @@
       "time": "03:20 PM",
       "date": "20260402",
       "cat": "RECLINER",
-      "price": "800.00",
+      "price": "900.00",
       "status": "3"
     },
     "PDWR|23800|20260402|RECLINER PRIME": {
@@ -1870,6 +1870,102 @@
       "date": "20260402",
       "cat": "VIP (1 FOR 2 ADMIT)",
       "price": "1000.00",
+      "status": "3"
+    },
+    "PVOO|44592|20260403|RECLINER ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "PVOO|44592|20260403|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260403",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PVOO|44592|20260403|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PVOO|44592|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PVOO|44592|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "PVOO|44617|20260403|GOLD PRIME": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "04:20 PM",
+      "date": "20260403",
+      "cat": "GOLD PRIME",
+      "price": "850.00",
+      "status": "3"
+    },
+    "PVOO|44617|20260403|GOLD": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "04:20 PM",
+      "date": "20260403",
+      "cat": "GOLD",
+      "price": "800.00",
+      "status": "3"
+    },
+    "PVOO|44613|20260403|RECLINER ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "530.00",
+      "status": "3"
+    },
+    "PVOO|44613|20260403|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260403",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVOO|44613|20260403|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PVOO|44613|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVOO|44613|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "260.00",
       "status": "3"
     },
     "IMMO|51733|20260403|PRIME ROWS": {
@@ -1944,68 +2040,20 @@
       "price": "220.00",
       "status": "3"
     },
-    "CNRM|1362|20260403|NORMAL": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
+    "CEHR|27669|20260403|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "07:20 PM",
       "date": "20260403",
-      "cat": "NORMAL",
-      "price": "220.00",
+      "cat": "GOLD",
+      "price": "236.00",
       "status": "3"
     },
-    "CNRM|1362|20260403|EXECUTIVE": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
+    "CEHR|27683|20260403|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "10:30 PM",
       "date": "20260403",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CNRM|1362|20260403|PREMIUM": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
-      "date": "20260403",
-      "cat": "PREMIUM",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CNRM|1362|20260403|VIP": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
-      "date": "20260403",
-      "cat": "VIP",
-      "price": "480.00",
-      "status": "3"
-    },
-    "CNRM|1364|20260403|NORMAL": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260403",
-      "cat": "NORMAL",
-      "price": "220.00",
-      "status": "3"
-    },
-    "CNRM|1364|20260403|EXECUTIVE": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260403",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CNRM|1364|20260403|PREMIUM": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260403",
-      "cat": "PREMIUM",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CNRM|1364|20260403|VIP": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260403",
-      "cat": "VIP",
-      "price": "480.00",
+      "cat": "GOLD",
+      "price": "236.00",
       "status": "3"
     },
     "ACKB|3405|20260403|MAJESTIC": {
@@ -2054,6 +2102,70 @@
       "date": "20260403",
       "cat": "CLASSIC",
       "price": "250.00",
+      "status": "3"
+    },
+    "PSLC|15057|20260403|RECLINER ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "480.00",
+      "status": "2"
+    },
+    "PSLC|15057|20260403|PRIME ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PSLC|15057|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PSLC|15057|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "PSLC|15059|20260403|RECLINER ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260403",
+      "cat": "RECLINER ROWS",
+      "price": "580.00",
+      "status": "3"
+    },
+    "PSLC|15059|20260403|PRIME ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260403",
+      "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "PSLC|15059|20260403|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260403",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PSLC|15059|20260403|CLASSIC ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260403",
+      "cat": "CLASSIC ROWS",
+      "price": "270.00",
       "status": "3"
     },
     "PMSR|26122|20260403|RECLINER ROWS": {
@@ -2288,6 +2400,102 @@
       "price": "1000.00",
       "status": "3"
     },
+    "PVOO|44663|20260404|RECLINER ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "530.00",
+      "status": "3"
+    },
+    "PVOO|44663|20260404|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260404",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVOO|44663|20260404|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
+    "PVOO|44663|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVOO|44663|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "01:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PVOO|44632|20260404|GOLD PRIME": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "04:20 PM",
+      "date": "20260404",
+      "cat": "GOLD PRIME",
+      "price": "850.00",
+      "status": "3"
+    },
+    "PVOO|44632|20260404|GOLD": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "04:20 PM",
+      "date": "20260404",
+      "cat": "GOLD",
+      "price": "800.00",
+      "status": "3"
+    },
+    "PVOO|44655|20260404|RECLINER ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "580.00",
+      "status": "3"
+    },
+    "PVOO|44655|20260404|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260404",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PVOO|44655|20260404|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PVOO|44655|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVOO|44655|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "06:40 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
     "IMMO|51868|20260404|ROYAL": {
       "venue": "INOX: Megaplex Mall of Asia Bangalore",
       "time": "10:30 PM",
@@ -2336,68 +2544,20 @@
       "price": "220.00",
       "status": "3"
     },
-    "CNRM|1384|20260404|NORMAL": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
+    "CEHR|27687|20260404|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "07:20 PM",
       "date": "20260404",
-      "cat": "NORMAL",
-      "price": "220.00",
+      "cat": "GOLD",
+      "price": "236.00",
       "status": "3"
     },
-    "CNRM|1384|20260404|EXECUTIVE": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
+    "CEHR|27701|20260404|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "10:30 PM",
       "date": "20260404",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CNRM|1384|20260404|PREMIUM": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
-      "date": "20260404",
-      "cat": "PREMIUM",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CNRM|1384|20260404|VIP": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "01:00 PM",
-      "date": "20260404",
-      "cat": "VIP",
-      "price": "480.00",
-      "status": "3"
-    },
-    "CNRM|1386|20260404|NORMAL": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260404",
-      "cat": "NORMAL",
-      "price": "220.00",
-      "status": "3"
-    },
-    "CNRM|1386|20260404|EXECUTIVE": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260404",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CNRM|1386|20260404|PREMIUM": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260404",
-      "cat": "PREMIUM",
-      "price": "260.00",
-      "status": "3"
-    },
-    "CNRM|1386|20260404|VIP": {
-      "venue": "Cinepolis: Royal Meenakshi Mall",
-      "time": "06:55 PM",
-      "date": "20260404",
-      "cat": "VIP",
-      "price": "480.00",
+      "cat": "GOLD",
+      "price": "236.00",
       "status": "3"
     },
     "ACKB|3547|20260404|MAJESTIC": {
@@ -2448,6 +2608,70 @@
       "price": "250.00",
       "status": "3"
     },
+    "PSLC|15087|20260404|RECLINER ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "530.00",
+      "status": "3"
+    },
+    "PSLC|15087|20260404|PRIME ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "310.00",
+      "status": "3"
+    },
+    "PSLC|15087|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PSLC|15087|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "04:45 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "PSLC|15089|20260404|RECLINER ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260404",
+      "cat": "RECLINER ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "PSLC|15089|20260404|PRIME ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PSLC|15089|20260404|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "PSLC|15089|20260404|CLASSIC ROWS": {
+      "venue": "PVR: Soul Spirit Central Mall, Bellandur",
+      "time": "10:10 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "300.00",
+      "status": "3"
+    },
     "FMFB|117494|20260404|PRIME ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "03:55 PM",
@@ -2494,6 +2718,54 @@
       "date": "20260404",
       "cat": "CLASSIC ROWS",
       "price": "250.00",
+      "status": "3"
+    },
+    "NSBR|45285|20260404|PRIME ROWS": {
+      "venue": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+      "time": "03:55 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "NSBR|45285|20260404|CLASSIC PLUS ROWS": {
+      "venue": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+      "time": "03:55 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "NSBR|45285|20260404|CLASSIC ROWS": {
+      "venue": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+      "time": "03:55 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "210.00",
+      "status": "3"
+    },
+    "NSBR|45287|20260404|PRIME ROWS": {
+      "venue": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+      "time": "10:00 PM",
+      "date": "20260404",
+      "cat": "PRIME ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "NSBR|45287|20260404|CLASSIC PLUS ROWS": {
+      "venue": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+      "time": "10:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "260.00",
+      "status": "3"
+    },
+    "NSBR|45287|20260404|CLASSIC ROWS": {
+      "venue": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+      "time": "10:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC ROWS",
+      "price": "240.00",
       "status": "3"
     },
     "PMMC|12417|20260404|SILVER": {
