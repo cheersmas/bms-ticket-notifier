@@ -6,7 +6,7 @@
       "date": "20260402",
       "cat": "RECLINER ROWS",
       "price": "380.00",
-      "status": "1"
+      "status": "2"
     },
     "PVOO|44538|20260402|PRIME ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -640,19 +640,19 @@
       "price": "590.00",
       "status": "2"
     },
-    "PBMM|30050|20260402|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Bhartiya Mall of Bengaluru",
-      "time": "02:00 PM",
-      "date": "20260402",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
     "PBMM|30050|20260402|PRIME PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "02:00 PM",
       "date": "20260402",
       "cat": "PRIME PLUS ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PBMM|30050|20260402|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "02:00 PM",
+      "date": "20260402",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "350.00",
       "status": "3"
     },
@@ -2360,19 +2360,19 @@
       "price": "450.00",
       "status": "3"
     },
-    "PBMM|30098|20260403|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Bhartiya Mall of Bengaluru",
-      "time": "02:00 PM",
-      "date": "20260403",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
     "PBMM|30098|20260403|PRIME PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "02:00 PM",
       "date": "20260403",
       "cat": "PRIME PLUS ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PBMM|30098|20260403|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Bhartiya Mall of Bengaluru",
+      "time": "02:00 PM",
+      "date": "20260403",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "290.00",
       "status": "3"
     },
@@ -2734,7 +2734,7 @@
       "date": "20260403",
       "cat": "PRIME ROWS",
       "price": "330.00",
-      "status": "3"
+      "status": "2"
     },
     "FMFB|117479|20260403|CLASSIC PLUS ROWS": {
       "venue": "INOX: Nexus, Whitefield",
@@ -3246,7 +3246,7 @@
       "date": "20260403",
       "cat": "RECLINER PRIME",
       "price": "1000.00",
-      "status": "2"
+      "status": "3"
     },
     "PDWR|23846|20260403|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
@@ -3262,7 +3262,7 @@
       "date": "20260403",
       "cat": "RECLINER PRIME",
       "price": "1200.00",
-      "status": "2"
+      "status": "3"
     },
     "PDWR|23844|20260403|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
