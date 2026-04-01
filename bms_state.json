@@ -14,7 +14,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "260.00",
-      "status": "3"
+      "status": "2"
     },
     "PVOO|44538|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Orion Mall, Dr Rajkumar Road",
@@ -166,7 +166,7 @@
       "date": "20260402",
       "cat": "PREMIUM",
       "price": "440.00",
-      "status": "3"
+      "status": "2"
     },
     "CFBS|2420|20260402|VIP": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
@@ -190,6 +190,30 @@
       "date": "20260402",
       "cat": "LUXE",
       "price": "450.00",
+      "status": "3"
+    },
+    "CEHR|27645|20260402|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "12:15 PM",
+      "date": "20260402",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "3"
+    },
+    "CEHR|27647|20260402|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "06:30 PM",
+      "date": "20260402",
+      "cat": "GOLD",
+      "price": "236.00",
+      "status": "3"
+    },
+    "CEHR|27648|20260402|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "10:15 PM",
+      "date": "20260402",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
     "PPNX|38017|20260402|RECLINER ROWS": {
@@ -278,7 +302,7 @@
       "date": "20260402",
       "cat": "Classic Plus Rows",
       "price": "340.00",
-      "status": "3"
+      "status": "2"
     },
     "IMCB|9471|20260402|Classic Rows": {
       "venue": "INOX: M5 Ecity, Bengaluru",
@@ -494,7 +518,7 @@
       "date": "20260402",
       "cat": "RECLINER ROWS",
       "price": "490.00",
-      "status": "1"
+      "status": "0"
     },
     "PVWW|33684|20260402|PRIME ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
@@ -878,7 +902,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "300.00",
-      "status": "1"
+      "status": "2"
     },
     "PSLC|15038|20260402|CLASSIC PLUS ROWS": {
       "venue": "PVR: Soul Spirit Central Mall, Bellandur",
@@ -1069,7 +1093,7 @@
       "time": "02:15 PM",
       "date": "20260402",
       "cat": "PRIME ROWS",
-      "price": "200.00",
+      "price": "220.00",
       "status": "2"
     },
     "PGFD|27213|20260402|CLASSIC PLUS ROWS": {
@@ -1301,8 +1325,8 @@
       "time": "06:15 PM",
       "date": "20260402",
       "cat": "RECLINER ROWS",
-      "price": "410.00",
-      "status": "3"
+      "price": "440.00",
+      "status": "2"
     },
     "INMB|69160|20260402|PRIME ROWS": {
       "venue": "INOX: Mantri Square, Malleshwaram",
@@ -1646,7 +1670,7 @@
       "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "310.00",
-      "status": "3"
+      "status": "2"
     },
     "INBG|115336|20260402|CLASSIC PLUS ROWS": {
       "venue": "INOX: Garuda Mall, Magrath Road",
@@ -1821,8 +1845,8 @@
       "time": "10:15 PM",
       "date": "20260402",
       "cat": "RECLINER",
-      "price": "1000.00",
-      "status": "3"
+      "price": "1100.00",
+      "status": "2"
     },
     "NFGD|66807|20260402|VIP (1 FOR 2 ADMIT)": {
       "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
@@ -1850,15 +1874,15 @@
     },
     "ACKB|3405|20260403|MAJESTIC": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
-      "time": "12:55 PM",
+      "time": "12:50 PM",
       "date": "20260403",
       "cat": "MAJESTIC",
       "price": "450.00",
-      "status": "3"
+      "status": "2"
     },
     "ACKB|3405|20260403|GRAND": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
-      "time": "12:55 PM",
+      "time": "12:50 PM",
       "date": "20260403",
       "cat": "GRAND",
       "price": "350.00",
@@ -1866,7 +1890,7 @@
     },
     "ACKB|3405|20260403|CLASSIC": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
-      "time": "12:55 PM",
+      "time": "12:50 PM",
       "date": "20260403",
       "cat": "CLASSIC",
       "price": "250.00",
@@ -1895,14 +1919,62 @@
       "cat": "CLASSIC",
       "price": "250.00",
       "status": "3"
+    },
+    "ACKB|3547|20260404|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "12:35 PM",
+      "date": "20260404",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3547|20260404|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "12:35 PM",
+      "date": "20260404",
+      "cat": "GRAND",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ACKB|3547|20260404|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "12:35 PM",
+      "date": "20260404",
+      "cat": "CLASSIC",
+      "price": "250.00",
+      "status": "3"
+    },
+    "ACKB|3549|20260404|MAJESTIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "MAJESTIC",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ACKB|3549|20260404|GRAND": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "GRAND",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ACKB|3549|20260404|CLASSIC": {
+      "venue": "AMB Cinemas Kapali: Bengaluru",
+      "time": "07:00 PM",
+      "date": "20260404",
+      "cat": "CLASSIC",
+      "price": "250.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260401": "BOOKABLE",
+    "20260401": "AVAILABLE",
     "20260402": "AVAILABLE",
     "20260403": "AVAILABLE",
-    "20260404": "NOT_OPEN",
-    "20260405": "NOT_OPEN",
+    "20260404": "BOOKABLE",
+    "20260405": "AVAILABLE",
     "20260406": "NOT_OPEN",
     "20260407": "NOT_OPEN"
   }
